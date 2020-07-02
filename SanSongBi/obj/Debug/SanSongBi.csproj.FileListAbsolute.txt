@@ -9,3 +9,15 @@ C:\Users\bean\Documents\Github\SanSongBi_Project\SanSongBi\SanSongBi\obj\Debug\S
 C:\Users\bean\Documents\Github\SanSongBi_Project\SanSongBi\SanSongBi\obj\Debug\SanSongBi.csproj.GenerateResource.Cache
 C:\Users\bean\Documents\Github\SanSongBi_Project\SanSongBi\SanSongBi\obj\Debug\SanSongBi.exe
 C:\Users\bean\Documents\Github\SanSongBi_Project\SanSongBi\SanSongBi\obj\Debug\SanSongBi.pdb
+C:\github\SanSungBi\SanSongBi\bin\Debug\SanSongBi.exe.config
+C:\github\SanSungBi\SanSongBi\bin\Debug\SanSongBi.exe
+C:\github\SanSungBi\SanSongBi\bin\Debug\SanSongBi.pdb
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.csprojAssemblyReference.cache
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.Game_fnc.resources
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.Login_fnc.resources
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.Signup_fnc.resources
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.Properties.Resources.resources
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.csproj.GenerateResource.cache
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.csproj.CoreCompileInputs.cache
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.exe
+C:\github\SanSungBi\SanSongBi\obj\Debug\SanSongBi.pdb
